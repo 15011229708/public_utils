@@ -17,5 +17,5 @@ allprojects {
 app中的build.gradle文件添加
 
 dependencies {
-	  implementation 'com.github.15011229708:PublicUtils:Tag'
+	  implementation 'com.github.15011229708:PublicUtils:1.0'
 }
