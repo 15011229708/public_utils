@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#5a9cff</color>
+    <color name="colorPrimaryDark">#27408B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhite_press">#e5e5e5</color>
+    <color name="colorDivide">#d8d8d8 </color>
+    <color name="colorBg">#F2F3F5</color>
+
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorTextBlack">#7D7E7F</color>
+
+
+
+    <!-- 透明色 -->
+    <color name="transparent">#00000000</color>
 </resources>
